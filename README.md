@@ -7,5 +7,6 @@ This repository serves a bechmark study for multiple algorithms for Sentiment An
 
 - Convolutional Neural Network (CNN)
 - Long Short Term Memory (LSTM)
-- Word Embedding - Long Short Term Memory (WDE -LSTM)
+- Word Embedding - Long Short Term Memory (WDE - LSTM)
+- Word Embedding - Convolutional Neural Network (WDE - CNN)
 - Word Embedding - Long Short Term Memory + Convolutional Neural Network (WDE -LSTM + CNN )
